@@ -4,3 +4,9 @@
 ## メモ
 
 [デバッグ方法](./documents/DEBUG.md)
+
+## ディレクトリの内容
+
+### practice
+
+練習用
